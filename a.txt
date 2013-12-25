@@ -1,2 +1,6 @@
-http://www.google.com
-http://www.apple.com
+title
+a vs b
+http://live.shogi.or.jp/ryuou/kifu/25/ryuou201207060101.kif
+第２５期竜王戦決勝トーナメント
+飯島栄治vs佐藤天彦
+http://live.shogi.or.jp/ryuou/kifu/25/ryuou201207120101.kif
