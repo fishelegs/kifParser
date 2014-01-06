@@ -13,7 +13,8 @@ http://live.shogi.or.jp/tatsujin/kifu/data/tatsujin20110903.kif
 棋戦：第２期加古川青流戦三番勝負　第２局
 先手：伊藤真吾 後手：永瀬拓矢
 http://live.shogi.or.jp/seiryu/kifu/2/seiryu201210280101.kif
-2012年10月28日　第２期加古川青流戦三番勝負　第２局 永瀬拓矢五段　対　伊藤真吾四段
+2012年10月28日　第２期加古川青流戦三番勝負
+第２局 永瀬拓矢五段　対　伊藤真吾四段
 live.shogi.or.jp/seiryu/kifu/2/seiryu201210280102.kif
 棋戦：第３期加古川青流戦三番勝負　第１局
 先手：千田翔太 後手：佐々木勇気
